@@ -1,0 +1,5 @@
+2020-12-29 18:34:49,411 INFO  [Log4j] New driver instantiated 
+2020-12-29 18:34:49,424 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2020-12-29 18:36:18,617 INFO  [Log4j] New driver instantiated 
+2020-12-29 18:36:18,628 INFO  [Log4j] Implicit wait applied on the driver for 10 seconds 
+2020-12-29 18:36:21,738 INFO  [Log4j] Web application launched 
